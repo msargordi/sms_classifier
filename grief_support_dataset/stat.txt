@@ -1,0 +1,42 @@
+Dataset Statistics:
+Total conversations: 1000
+
+Train set: 700 conversations (70.0%)
+
+  Turn 1 Distribution:
+  Sentiment: {'Positive': 181, 'Neutral': 132, 'Negative': 387}
+  Response Needed: {'Yes': 526, 'No': 174}
+  Crisis Detection: {'Crisis': 65, 'No Crisis': 635}
+
+  Turn 2 Distribution:
+  Sentiment: {'Positive': 277, 'Neutral': 284, 'Negative': 139}
+  Response Needed: {'Yes': 218, 'No': 482}
+  Crisis Detection: {'Crisis': 68, 'No Crisis': 632}
+
+Validation set: 150 conversations (15.0%)
+
+  Turn 1 Distribution:
+  Sentiment: {'Positive': 41, 'Neutral': 26, 'Negative': 83}
+  Response Needed: {'Yes': 114, 'No': 36}
+  Crisis Detection: {'Crisis': 16, 'No Crisis': 134}
+
+  Turn 2 Distribution:
+  Sentiment: {'Positive': 64, 'Neutral': 53, 'Negative': 33}
+  Response Needed: {'Yes': 53, 'No': 97}
+  Crisis Detection: {'Crisis': 15, 'No Crisis': 135}
+
+Test set: 150 conversations (15.0%)
+
+  Turn 1 Distribution:
+  Sentiment: {'Positive': 49, 'Neutral': 24, 'Negative': 77}
+  Response Needed: {'Yes': 103, 'No': 47}
+  Crisis Detection: {'Crisis': 17, 'No Crisis': 133}
+
+  Turn 2 Distribution:
+  Sentiment: {'Positive': 69, 'Neutral': 49, 'Negative': 32}
+  Response Needed: {'Yes': 44, 'No': 106}
+  Crisis Detection: {'Crisis': 16, 'No Crisis': 134}
+Train set saved to grief_support_dataset/train.json with 700 examples.
+Validation set saved to grief_support_dataset/validation.json with 150 examples.
+Test set saved to grief_support_dataset/test.json with 150 examples.
+Complete dataset saved to grief_support_dataset/complete_dataset.json with 1000 examples.

@@ -1,0 +1,3452 @@
+[
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Even in the darkest moments, remember there’s a community here that cares about you.",
+        "recipient_reply": "It's hard to believe anyone cares when I'm stuck in this pit.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "It sounds incredibly tough. You're not alone, and we're here to help. Are you safe right now, and do you have someone you can reach out to?",
+        "recipient_reply": "I'm not sure. I just feel so lost.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "Sometimes the smallest steps can lead to the greatest healing. What's something small you can do today to take care of yourself?",
+        "recipient_reply": "I might try to write in my journal. It used to help me process my thoughts.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds like a wonderful idea. Writing can be a powerful way to express and understand your emotions. Would you like to share anything you write?",
+        "recipient_reply": "I'll see how I feel after writing. Thank you for the suggestion.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "Every person's grief journey is unique. It's okay to feel a mix of emotions as you navigate this path.",
+        "recipient_reply": "I guess. I just feel numb most of the time, like I'm on autopilot.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Numbness is a common response to overwhelming emotions. Are there moments or activities where you feel more connected or present?",
+        "recipient_reply": "Sometimes listening to music helps, but it's like a fleeting moment of clarity.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "As you navigate this journey, know that it's okay to ask for help whenever you need it.",
+        "recipient_reply": "I feel like I'm burdening my friends whenever I talk about it. I just don’t want to be alone.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's understandable to feel that way, but true friends are there to support you. Have you considered joining a support group?",
+        "recipient_reply": "Maybe. I'll think about it. Just scared of opening up to strangers.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "1",
+    "turns": [
+      {
+        "support_message": "It's okay to feel a mix of emotions. Remember, every step forward is progress.",
+        "recipient_reply": "Thanks. Today was hard. I saw his favorite show on TV and just broke down.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It’s understandable that certain things can trigger strong emotions. Would you like to share more about what his favorite show meant to him?",
+        "recipient_reply": "It was our Sunday night ritual. I miss those evenings together.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "It's important to allow yourself to feel your emotions, no matter how intense they may seem.",
+        "recipient_reply": "I miss him so much. It's like a part of me is missing and I can't seem to fill that void.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That feeling of emptiness is something many people share. It can help to connect with others or find activities that honor his memory. What has been comforting for you?",
+        "recipient_reply": "Talking to his friends sometimes helps. They remind me of the good times we had together.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Grief can be isolating, but you're not alone. Are there any feelings you'd like to talk about today?",
+        "recipient_reply": "I just want to be with him. Everything feels pointless without him.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "I'm truly sorry you're feeling this way. It's important to talk to someone who can help. Can I connect you with a counselor or support line?",
+        "recipient_reply": "Maybe that would help. I just don't know how to start.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "When memories come flooding back, try to hold on to the love and joy they represent.",
+        "recipient_reply": "It's been a year since she passed, and I can't believe it. Some days are better, but today is really hard.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anniversaries can be particularly tough. It's important to acknowledge those feelings. Is there anything special you do to honor her memory?",
+        "recipient_reply": "I visited her favorite garden today. It felt nice to be somewhere she loved.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "Even in the darkest times, try to find a small spark of light. We're here to help you find it.",
+        "recipient_reply": "I don't know if there is any light left. I miss him so much, it's unbearable.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "I'm so sorry to hear how much pain you're in. It's okay to feel this way, but you're not alone. Can we talk more about what you're feeling?",
+        "recipient_reply": "Maybe. I'm just so lost without him.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "Remember, you’re not alone in this. We’re here to support you through the tough days.",
+        "recipient_reply": "Thank you. I've been feeling a bit better lately, trying to focus on the good times we had.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a wonderful way to honor their memory. Focusing on cherished moments can be healing. What's one memory that brings you comfort?",
+        "recipient_reply": "Our long walks in the park. It always felt like our special time.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Sharing memories can be a powerful way to keep your loved one close in your heart.",
+        "recipient_reply": "I found an old voicemail from my brother. Hearing his voice again was bittersweet.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Hearing their voice can bring a flood of emotions. Would you like to share what he said in the voicemail?",
+        "recipient_reply": "He was just checking in, but it reminded me of our late-night talks. I miss those.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "It's okay to reach out for support when things feel overwhelming. We're here for you.",
+        "recipient_reply": "I appreciate that. Some days are just harder than others, especially when I'm alone.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Loneliness can intensify grief. Finding small ways to connect with others, even virtually, can be comforting. Would you be interested in joining a support group?",
+        "recipient_reply": "Maybe. I think it would be good to talk to people who understand.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "Sometimes sharing your feelings can lighten the load. We're here for you whenever you're ready to talk.",
+        "recipient_reply": "It's hard to talk about it. I just feel like no one understands what I'm going through.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It can feel isolating when others don't seem to understand. You're not alone in this, and we're here to listen without judgment. Would it help to share something specific that's been on your mind?",
+        "recipient_reply": "Maybe, I just need some time to sort through my thoughts.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "On anniversaries, emotions can be particularly intense. It's okay to feel whatever comes up today.",
+        "recipient_reply": "Today marks a year without him. It feels like yesterday.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anniversaries can bring back strong emotions. Would you like to share how you plan to honor his memory today?",
+        "recipient_reply": "I'm lighting a candle and playing his favorite music. It's comforting in a way.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "1",
+    "turns": [
+      {
+        "support_message": "It's okay to feel however you're feeling today. Grief is a personal journey, and there's no right or wrong way to experience it.",
+        "recipient_reply": "I appreciate that. Some days are just so heavy, and others feel like I can breathe a little.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Those lighter days can be a source of strength. On heavier days, it might help to reach out or engage in something comforting. Is there anything that usually helps you?",
+        "recipient_reply": "I find walking in the park helps a bit. Nature is calming to me.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "It's okay to reach out for support, even if it's been a while since your loss. We're here whenever you need.",
+        "recipient_reply": "It's been years, but I still find myself talking to her sometimes.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Many people find comfort in continuing bonds with loved ones. It can help keep their memory alive.",
+        "recipient_reply": "It does. I feel like she's listening when I do.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Your grief journey is unique to you. Take things at your own pace, and remember to care for yourself.",
+        "recipient_reply": "Thanks, I've been trying to get back to my normal routine but it's tough sometimes.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Re-establishing routine can be challenging yet grounding. What activities have you found most comforting during this time?",
+        "recipient_reply": "Cooking his favorite meals. It feels like a way to honor him.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "Remember, there is no 'right' way to grieve. Each person's journey is unique.",
+        "recipient_reply": "I just feel numb most of the time. Is that normal?",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Numbness can be a way your mind protects itself from overwhelming emotions. It's normal, and it’s okay to feel that way. Would talking about something else help right now?",
+        "recipient_reply": "Maybe. I've been avoiding a lot of social events because of it.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "Remember, your feelings are valid. It's okay to feel whatever you're experiencing.",
+        "recipient_reply": "Thanks, I’ve been feeling guilty for not crying as much lately.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Grief can manifest in many ways. It’s okay not to cry; it doesn’t mean you care any less.",
+        "recipient_reply": "You’re right. It just made me question myself. Appreciate your reassurance.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "Grief can be all-consuming. It's okay to seek help and talk about it.",
+        "recipient_reply": "I just don't know if talking will help. It feels like nothing can change how I feel.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's worth trying. Sometimes just saying things out loud can bring a little relief. Do you want to share more about how you're feeling?",
+        "recipient_reply": "I feel empty, like I'm in a fog all the time.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "1",
+    "turns": [
+      {
+        "support_message": "It's okay to feel a wide range of emotions. We're here to help you through each one as they come.",
+        "recipient_reply": "I just don't know what to do anymore. Every day feels like a battle.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds incredibly tough. It's important to take it one day at a time. Have you found any small moments of relief or activities that help?",
+        "recipient_reply": "Sometimes writing in my journal helps. It's like I can speak to him through my words.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "We’re here to listen whenever you need to talk. Is there anything in particular you’d like to share?",
+        "recipient_reply": "I just keep thinking about everything I could have done differently. It’s eating me up.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Regret is a common but heavy burden to carry. Would it help to talk about some of those thoughts?",
+        "recipient_reply": "Maybe. I just wish I’d spent more time with him.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Even on the hardest days, try to remember you're not alone. We're here for you at any time.",
+        "recipient_reply": "Some days are okay, but today is just really hard. I feel like I'm drowning in sadness.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's okay to feel overwhelmed. Sometimes simply acknowledging those feelings can be a step forward. Would you like to talk more about what's making today particularly difficult?",
+        "recipient_reply": "It's just a lot of small things piling up. I guess I just need a break.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "turns": [
+      {
+        "support_message": "It’s okay to feel however you feel right now. Have you been able to express your feelings with anyone close?",
+        "recipient_reply": "Yeah, I talked to my sister. She’s been really supportive.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That’s great to hear. Having someone who understands can make a big difference. How does talking with her help?",
+        "recipient_reply": "She just gets it. We both miss him so much, but it’s nice to share that grief with someone.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "Remember, you don't have to go through this alone. We're here for you.",
+        "recipient_reply": "I just feel like no one understands what I'm going through.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It can feel really isolating, but you're not alone. Connecting with others who have similar experiences might help. Would you like some resources?",
+        "recipient_reply": "Maybe. I'll think about it. It's just hard to reach out.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "It's okay to reach out for support whenever you need it. How have you been feeling lately?",
+        "recipient_reply": "Honestly, I feel numb. It's been months since my brother died, but I can't seem to cry anymore.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Numbness can be a part of grief too. Sometimes emotions can come and go unexpectedly. Is there someone you trust that you can talk to about this?",
+        "recipient_reply": "I'll try talking to my best friend. She knew him well too.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "Remember, it's okay to seek out moments of joy, even while grieving.",
+        "recipient_reply": "I actually laughed today at a joke my friend made. It felt strange but good.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Laughter can be incredibly healing. It's great that you found a moment of lightness. Do you feel comfortable sharing the joke?",
+        "recipient_reply": "It was just a silly pun, but it caught me off guard. I'm glad I could laugh again.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "Anniversaries can be particularly tough. How are you doing today?",
+        "recipient_reply": "Honestly, I'm struggling. It feels like I'm stuck and can't move on.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It’s okay to feel stuck sometimes. Do you want to talk about what’s been the hardest part lately?",
+        "recipient_reply": "Just the emptiness, like a part of me is missing and it'll never be whole again.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "It’s important to acknowledge your progress, no matter how small. What’s one thing you’re proud of today?",
+        "recipient_reply": "I managed to cook a meal that we used to enjoy together. It felt bittersweet.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That’s a big step. Reconnecting with those memories through cooking is a beautiful way to honor them. How did it feel?",
+        "recipient_reply": "It was nice, actually. Felt like a small victory.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "We are here to support you in any way we can. How are you feeling today?",
+        "recipient_reply": "Honestly? I feel lost. My mom was my anchor, and now she's gone.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Losing such an important person can leave us feeling untethered. It's okay to feel lost. Is there something small or comforting that reminds you of her?",
+        "recipient_reply": "She loved baking. I tried her cookie recipe last night, and it made me feel close to her.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Grief can change how we see the world. It's okay to feel differently about things you once loved.",
+        "recipient_reply": "I don't even enjoy painting anymore. It used to be my escape.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It’s okay to take a break from things you once loved. Interests can change during grief. Maybe exploring new activities could help?",
+        "recipient_reply": "Maybe I’ll try something new. I just don’t know what yet.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "Sometimes, sharing a memory can bring comfort. What's a favorite memory of your loved one you'd like to share?",
+        "recipient_reply": "We used to bake cookies every Sunday. Those mornings were filled with laughter.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds like such a cherished tradition. Have you been able to continue baking or find new ways to honor those memories?",
+        "recipient_reply": "I bake every now and then. It's like she's with me in those moments.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "When grief feels heavy, remember that it's okay to lean on others for support.",
+        "recipient_reply": "I don't like burdening others with my pain. It's just easier to keep to myself.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's understandable to feel that way, but sharing can lighten the load. Would you be open to talking to a trusted friend or us more often?",
+        "recipient_reply": "I'll think about it. Maybe I just need some time alone first.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Be kind to yourself today. Grief takes time, and it's okay to take things one day at a time.",
+        "recipient_reply": "I’m doing my best. Some days are better, but today I just feel empty.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Feeling empty can be really tough. Is there anything that usually helps you feel a bit more grounded?",
+        "recipient_reply": "Listening to music helps a bit. I think I'll try that now.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "It's normal to have questions and feel uncertain during grief. You're not alone in this.",
+        "recipient_reply": "Why did this have to happen? I just don't understand. It's not fair.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Those feelings are very understandable. It’s okay to feel this way. We’re here to listen whenever you want to talk.",
+        "recipient_reply": "I appreciate that. Just feeling overwhelmed right now.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "turns": [
+      {
+        "support_message": "Remember, it’s okay to have days where you feel more at peace and days where you don’t. Each step is part of your journey.",
+        "recipient_reply": "Today was tough. I thought I was doing better, but grief just hit me out of nowhere.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Those waves of grief can be unexpected. It’s important to be gentle with yourself during these times. Is there something comforting you can do for yourself tonight?",
+        "recipient_reply": "Maybe I’ll watch some of our favorite movies. It’s hard, but it also brings back good memories.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "You don't have to go through this alone. We're always here when you need us.",
+        "recipient_reply": "Thanks, but I just want to be alone right now.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's okay to need space. Just know that we're here whenever you're ready to reach out.",
+        "recipient_reply": "Appreciate it. I'll keep that in mind.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "Sometimes just talking about what you're going through can bring a bit of relief. What’s been on your mind lately?",
+        "recipient_reply": "It's hard to put into words. Everything feels heavy, and I don't know where to start.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Starting is often the hardest part. Would it help to focus on one small thing at a time, maybe something that feels a little less overwhelming?",
+        "recipient_reply": "I'll try. Maybe I can start by writing down my thoughts.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "We’re here to support you whenever you need it. You’re not alone in this.",
+        "recipient_reply": "I know, but it’s hard to reach out. I just don't want to be a bother.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Reaching out is an act of strength, not a burden. We’re here for you. Is there anything you’d feel comfortable sharing now?",
+        "recipient_reply": "Just feeling overwhelmed with it all, but thank you for listening.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "Grief can be complex, and it's okay to feel a mix of emotions. We're here to support you through it all.",
+        "recipient_reply": "I just feel numb. It's like I'm here but not really present.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Numbness is a natural response to grief. Is there a way you can connect with the world around you, even in a small way?",
+        "recipient_reply": "Maybe I should take a walk outside. Fresh air might help.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "You're not alone in this. We're here to listen whenever you need to talk.",
+        "recipient_reply": "Sometimes I just wish I could hear her voice again. I feel so alone.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That longing is a natural part of missing someone. Have you considered recording your own voice talking about her, to preserve those memories?",
+        "recipient_reply": "Not sure. Maybe. I just feel so empty.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "turns": [
+      {
+        "support_message": "Sometimes grief can feel like a rollercoaster. It’s okay to have ups and downs. How’s today been for you?",
+        "recipient_reply": "Today was surprisingly good. Had lunch with an old friend and it felt nice to laugh again.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "I'm glad to hear that you had a good day. Laughter can be healing. Are you planning to meet up with your friend again soon?",
+        "recipient_reply": "Yeah, we’re thinking of making it a weekly thing. It feels good to reconnect.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "It's okay if you're having a tough day. Every step forward counts, no matter how small.",
+        "recipient_reply": "Thanks, I think I'm making progress. I managed to visit her favorite café without breaking down.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a huge step. Visiting places that hold memories can be challenging. How did it feel being there?",
+        "recipient_reply": "Bittersweet, but I felt closer to her somehow. I think I'll go back next week.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "1",
+    "turns": [
+      {
+        "support_message": "Grief can be a heavy burden, but sharing your feelings may lighten the load. How are you feeling today?",
+        "recipient_reply": "I'm okay, I guess. Just trying to get through each day. It's been a month since my mom passed.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Taking it one day at a time is perfectly okay. Have you found anything that helps you cope, even a little?",
+        "recipient_reply": "I started journaling a bit. It helps to put my thoughts somewhere.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Your feelings are valid, and we're here to support you. How can we assist you today?",
+        "recipient_reply": "I just want to feel normal again. Everything feels so out of place.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It’s okay to feel out of place after such a loss. Would you like to explore ways that might help you find a new sense of normal?",
+        "recipient_reply": "I guess I could try. I'm willing to do anything to feel better.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "You're not alone in this journey. Remember, reaching out is a step towards healing.",
+        "recipient_reply": "I don't even know what to say. Everything seems pointless without him here.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's okay to feel speechless and overwhelmed. Sometimes, just being present in the moment can help. What do you miss the most about him?",
+        "recipient_reply": "His laugh. It always made everything brighter. I really miss that.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "Taking time to reflect and remember can be healing. How have you been managing your grief recently?",
+        "recipient_reply": "I visit my dad's grave every week. Is that too much? I just feel like I need to.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Visiting his grave can be a meaningful way to feel connected. Everyone grieves differently. Is there something specific you do when you're there?",
+        "recipient_reply": "I talk to him about my week. It feels like he's still listening.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "There’s no right or wrong way to grieve. Take each day as it comes, and remember you’re not alone in this.",
+        "recipient_reply": "I know you're right, but I feel so alone. My partner was my rock and now I don't know how to face the world without them.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Losing someone who was such a big part of your life can leave you feeling lost. Would it help to share a memory of something you both loved doing together?",
+        "recipient_reply": "We loved hiking in the mountains. I haven't been able to go back since they passed, but maybe I should try.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Sharing your feelings can lighten the burden. We're here to support you whenever you need.",
+        "recipient_reply": "I feel like I can't go on without her. Everything feels pointless right now.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "It's important to talk about these feelings. You're not alone in this. Can I help connect you with someone who can support you further?",
+        "recipient_reply": "Maybe. I just don't know what to do anymore.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "Remember, it's important to take things one step at a time. How can today be a step forward for you?",
+        "recipient_reply": "I'm thinking of joining a support group. Maybe talking to others who understand will help.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds like a wonderful idea. Connecting with others can be really healing. Let us know how it goes.",
+        "recipient_reply": "Thanks, I will. It feels good to have some hope.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "It's normal for grief to come in waves. When you feel overwhelmed, remember that it's okay to reach out for support.",
+        "recipient_reply": "I just miss him so much. I don't know how to go on without him.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Missing him deeply shows the love you shared. Have you found any ways to honor his memory that bring you comfort?",
+        "recipient_reply": "Sometimes I write letters to him. It helps a bit, but I'm still struggling.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "Know that it's okay to feel whatever you're feeling. There's no right or wrong way to grieve.",
+        "recipient_reply": "I just feel angry all the time. It's like I can't control it.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anger is a common part of grief. It's a powerful emotion. Have you found any outlets for it that help?",
+        "recipient_reply": "I started journaling, and it helps a little.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "turns": [
+      {
+        "support_message": "Finding ways to honor your loved one can be a source of comfort. We're here to support you in finding those ways.",
+        "recipient_reply": "I started volunteering at a local shelter in his honor. It helps, but I still miss him every day.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Volunteering is a beautiful way to honor his memory and keep his spirit alive. It's normal to miss him, and doing something meaningful can be healing.",
+        "recipient_reply": "It feels good to do something he would've been proud of. Thank you for understanding.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Sometimes sharing your story can be a powerful way to process your emotions.",
+        "recipient_reply": "I'm scared to talk about it. What if people don't understand?",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's understandable to feel that way. Sharing with someone you trust can be a good start. Would you feel comfortable writing it down first?",
+        "recipient_reply": "Maybe writing it down could help. I'll give it a try.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "It's okay to feel lost sometimes. Grief can be disorienting. What do you need most right now?",
+        "recipient_reply": "Honestly, I just want to feel normal again. I don't even know what that means anymore.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Many feel that way. Finding a new 'normal' takes time and patience. Have there been any small moments of normalcy that you've noticed?",
+        "recipient_reply": "I did laugh at a movie last night. It felt strange but nice.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "It's normal to have days where it feels like too much. We're here to help you through those times.",
+        "recipient_reply": "I just want to be with my sister again. I miss her so much.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "Missing her shows how much she meant to you. It's important to talk about these feelings. Are you safe right now? We can help you find additional support if needed.",
+        "recipient_reply": "I'm safe, just really heartbroken. Talking does help, though.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "12",
+    "turns": [
+      {
+        "support_message": "Finding meaning in loss can be a powerful step. Have you found anything that's brought you solace recently?",
+        "recipient_reply": "I've started volunteering at a shelter, and it feels good to help others. I think my brother would've been proud.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's amazing. Giving back can indeed be healing. It's wonderful that you're finding ways to honor your brother's memory. How does volunteering make you feel?",
+        "recipient_reply": "It gives me a sense of purpose and reminds me of the good in the world, despite the loss.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "It's okay to take one day at a time. Some days will be harder than others, and that's perfectly normal.",
+        "recipient_reply": "Today is harder than usual. It's his birthday. I just can't stop crying.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Birthdays can be particularly tough. Would you like to remember him by doing something he loved today?",
+        "recipient_reply": "I think I'll make his favorite meal for dinner. He'd have loved that.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "It's okay to seek support whenever you feel overwhelmed. Have you been able to reach out to anyone else recently?",
+        "recipient_reply": "Not really. I don't want to burden my friends with my sadness.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "You're never a burden. Friends often want to be there but don't know how to help unless you let them in. Would you be open to trying?",
+        "recipient_reply": "Maybe. I'll think about it. It's just hard to start the conversation.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "turns": [
+      {
+        "support_message": "It's okay to not have all the answers right now. This is a journey, and we're here to support you.",
+        "recipient_reply": "I just wish I knew why. I can’t stop thinking about it.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It’s natural to seek answers in grief. Sometimes, sharing your thoughts can help. Would you like to talk more about it?",
+        "recipient_reply": "Maybe later. I’m just not ready to talk about it yet.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "We’re here to support you at every step. How are you feeling today?",
+        "recipient_reply": "I actually feel a bit lighter today. I met with an old friend and we talked about the good times.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds lovely. Reconnecting with friends can be so healing. What memories did you share?",
+        "recipient_reply": "We talked about our college days. It reminded me of how much laughter we had.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "It can be comforting to know you’re not alone in this. How can we best support you today?",
+        "recipient_reply": "Just being there is enough. It’s nice to know someone cares.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "We're glad to be here for you. Remember, you’re always welcome to reach out whenever you need.",
+        "recipient_reply": "Thanks, I really appreciate it.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "Know that every step forward, no matter how small, is a step along your healing journey.",
+        "recipient_reply": "I finally went back to our favorite restaurant today. It was hard but felt right.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a big step and a beautiful way to honor your memories. How did it feel to be there again?",
+        "recipient_reply": "Bittersweet, but I'm glad I went. I felt close to him.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "It's important to allow yourself to grieve at your own pace. How are you feeling today?",
+        "recipient_reply": "I don't even know anymore. One minute I'm okay, then I'm crying uncontrollably.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's okay to have ups and downs. Grief isn't linear. Is there anything that brings you comfort during those difficult moments?",
+        "recipient_reply": "Listening to her favorite songs helps a bit, but I just wish this pain would end.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "We’re here to support you in finding ways to cope with your loss. Take all the time you need.",
+        "recipient_reply": "It's been a year, and I still can't sleep without crying. I just want it to stop.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "It sounds like you’re going through a really tough time. Have you considered speaking with a grief counselor for more support?",
+        "recipient_reply": "Maybe. I'm just scared nothing will help.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "1",
+    "turns": [
+      {
+        "support_message": "It's okay to feel a range of emotions. Remember, there's no right or wrong way to grieve.",
+        "recipient_reply": "I can't stop crying today. Everything reminds me of him.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's understandable to feel overwhelmed by emotion. Have you found any small comforts that help even a little bit on days like this?",
+        "recipient_reply": "Sometimes writing helps, but not today. Just wish I could talk to him one more time.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "Remember, even the smallest steps forward are still steps forward.",
+        "recipient_reply": "I know, but it's hard to see any progress right now.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It can be difficult to notice progress when you're in the midst of grief. Are there any small victories you can recognize today?",
+        "recipient_reply": "Well, I did manage to go for a walk this morning.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Every step you take is a step forward, even if it feels small. You're doing a great job.",
+        "recipient_reply": "I finally went back to work this week. It was hard, but I managed.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a big achievement. Returning to routine can be challenging. How did it feel to be back at work?",
+        "recipient_reply": "It was strange but also good to be busy. My colleagues were supportive.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "1",
+    "turns": [
+      {
+        "support_message": "It's okay to feel a wide range of emotions. Grief is unique to everyone, and we're here to support you through it all.",
+        "recipient_reply": "I just miss him so much. I can't believe he's gone. Every day is harder than the last.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Missing him deeply is a testament to the love you shared. It’s okay to feel overwhelmed. Do you have any support around you to help during these tough times?",
+        "recipient_reply": "My friends have been checking in, but I still feel so alone. I just want to talk to him one more time.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Finding moments of peace in your grief is important. What small things bring you comfort these days?",
+        "recipient_reply": "Sometimes, just sitting in the garden helps. It's where we spent a lot of time together.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Gardens can be very healing spaces. It's wonderful that you've found a place of solace. Do you plan to spend more time there?",
+        "recipient_reply": "Yes, I think I'll start planting new flowers in her memory.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "Sometimes, small acts of self-care can provide a little relief. Have you done anything nice for yourself today?",
+        "recipient_reply": "I went for a walk in the park. It was peaceful.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds lovely. Nature can be very healing. What did you enjoy most about your walk?",
+        "recipient_reply": "The fresh air and the sound of birds. It reminded me of our hikes together.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "Your feelings are valid and deserve to be acknowledged. How can we support you today?",
+        "recipient_reply": "It's the first anniversary of losing my sister. I feel like I should be handling it better by now.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anniversaries can be particularly challenging. It's okay to feel however you feel today. How did you and your sister enjoy spending time together?",
+        "recipient_reply": "We loved baking together. I think I'll try making her favorite cookies tonight.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "Every step forward in your grief journey is significant, no matter how small. What has been helping recently?",
+        "recipient_reply": "I've started writing in a journal about him. It feels like I'm talking to him when I do.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds like a beautiful way to keep his memory alive and feel connected. Have you found it brings some peace?",
+        "recipient_reply": "It does, in a way. It makes me smile and cry at the same time.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "Grief can come in waves. Remember, it's okay to feel whatever you're feeling right now.",
+        "recipient_reply": "I just miss him so much. It's hard to get through the day without breaking down.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Missing someone you love is incredibly hard. Is there a particular way you'd like to remember him today?",
+        "recipient_reply": "Maybe I could write down some stories about him. He always loved telling stories.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "We’re here to listen whenever you need to talk or share.",
+        "recipient_reply": "Thanks. I just want to be with him.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "I hear you. Missing someone deeply can be incredibly difficult. Are you safe right now?",
+        "recipient_reply": "I don't know. It’s hard to handle this alone.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "1",
+    "turns": [
+      {
+        "support_message": "It's okay to feel whatever you're feeling. Grief is a personal journey, and we're here for you.",
+        "recipient_reply": "I'm really struggling today. I miss my sister so much, it hurts.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "I'm sorry to hear today is tough. Missing her deeply shows how much she meant to you. Would you like to share a memory of her?",
+        "recipient_reply": "We used to bake cookies every Sunday. I haven't felt like doing it alone.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "Losing someone we love changes our world. It's important to take each day as it comes. How have you been managing recently?",
+        "recipient_reply": "Honestly, not well. I can't seem to stop crying, and I feel so lost without him.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's okay to cry and feel lost. Those feelings are part of grieving. Would you like to talk more about how you're feeling?",
+        "recipient_reply": "I just miss him so much. I'm not sure talking will help, but maybe it will.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "Remember that you're not alone in this. Lean on your support system when you need to.",
+        "recipient_reply": "I know I have people around, but it still feels so isolating sometimes.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Feeling isolated is a common experience in grief. Have you been able to talk to anyone about how you're feeling?",
+        "recipient_reply": "Not really. I'm not sure how to start those conversations.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "13",
+    "turns": [
+      {
+        "support_message": "Remember, it's okay to ask for help when you need it. How's today treating you?",
+        "recipient_reply": "It's been rough. I wish I could just talk to him one more time. I'm not sure how to handle this.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Missing that connection can be incredibly painful. Maybe writing a letter to him could help express some of what you're feeling. Would you like to try that?",
+        "recipient_reply": "I might. It sounds like a way to get some of these feelings out. Thank you for the suggestion.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "Remember, reaching out is a strength, not a weakness. We're here for you.",
+        "recipient_reply": "Thanks, I just miss my brother so much. It's been a year and the pain is still there.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anniversaries can bring up a lot of emotions. It’s okay to miss him deeply. Have you found any ways to honor or remember him that bring you comfort?",
+        "recipient_reply": "I light a candle for him every night. It helps a little.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "It's important to take moments for yourself. Have you been able to find some time for self-care?",
+        "recipient_reply": "Not really. Feels like everything is too much effort right now.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's okay to start small. Even a few minutes for yourself can make a difference. Is there a simple activity you used to enjoy that you might try again?",
+        "recipient_reply": "I used to like drawing, but it's been ages since I picked up a pencil.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "12",
+    "turns": [
+      {
+        "support_message": "Remembering the happy times can be a way to honor your loved one's memory.",
+        "recipient_reply": "I tried going through old photos today. It was harder than I thought it would be.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Revisiting memories can be challenging but also healing. It's okay to take breaks and return when you're ready. Is there a particular memory that stands out to you?",
+        "recipient_reply": "Our first trip together. It was chaotic but so full of laughter. I miss those days.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Finding meaning after a loss can be challenging, but it's part of the healing process.",
+        "recipient_reply": "I've started volunteering at a shelter. It feels good to give back in his memory.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a beautiful way to honor his memory. Your actions can bring comfort and healing to others as well as yourself.",
+        "recipient_reply": "Thanks, it feels like the right thing to do.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "Grief can feel like a heavy weight. Know that you don't have to carry it alone.",
+        "recipient_reply": "I just feel so angry all the time. It's like I can't control it.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anger is a natural part of grieving. It might help to channel it into something positive, like writing or exercise. Have you tried anything like that?",
+        "recipient_reply": "I started running again. It helps a bit to clear my head.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "It’s okay to feel lost at times. We’re here to help you find your way through.",
+        "recipient_reply": "I don't know what to do without him. Everything feels pointless.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "I'm really sorry to hear you're feeling this way. It might help to talk to someone about these feelings. Can I connect you with additional support?",
+        "recipient_reply": "Maybe. I just don’t want to feel this way anymore.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "It's okay to feel overwhelmed. You're not alone in this journey.",
+        "recipient_reply": "Thanks, it's just hard to believe I'll ever feel normal again.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Many people feel that way, and it’s important to take each day as it comes. Have you noticed any small improvements over time?",
+        "recipient_reply": "A bit. I don't cry every day anymore. That's something, right?",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Your emotions are valid, and it's okay to feel whatever you're feeling.",
+        "recipient_reply": "I'm angry all the time. It's like I'm stuck in this loop, and I can't get out.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anger can be a powerful part of grief. Have you tried any activities to help release it, like exercise or writing?",
+        "recipient_reply": "I tried running, but I just end up crying on the track. Maybe writing could help.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "Every step you take is significant. Even the smallest progress is progress.",
+        "recipient_reply": "I guess so. I did manage to get out of bed today, which is something.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's definitely something to acknowledge. Each day can bring its own challenges. What helped you get up today?",
+        "recipient_reply": "My dog's wagging tail. It's hard to stay in bed with that kind of energy around.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "Sometimes sharing a memory can bring comfort. Is there a special memory you'd like to share today?",
+        "recipient_reply": "We used to go fishing every Sunday. Those mornings were the best. I miss them.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds like a beautiful tradition. Revisiting those memories can keep them close. Have you considered doing something similar to honor that time?",
+        "recipient_reply": "I think I might visit our favorite spot this weekend. It might help me feel connected to him.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Grief isn't linear, and it's okay to have setbacks. Each day is a new opportunity to heal.",
+        "recipient_reply": "I thought I was doing better, but this week has been rough. Just can't shake the sadness.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Setbacks are part of the process, and it's okay to have tough days. Is there someone you trust who you can talk to?",
+        "recipient_reply": "I'll try talking to my sister. She's been really supportive.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "It's okay to feel a mix of emotions. We're here to help you process them.",
+        "recipient_reply": "I feel guilty for moving on. Like I'm betraying his memory by trying to be happy.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's common to feel guilt, but finding joy doesn't mean forgetting. It's a way to honor their memory too. How can you incorporate their memory in your happiness?",
+        "recipient_reply": "Maybe by sharing our stories with others. He loved making people laugh.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "Anniversaries can bring up a lot of emotions. It's normal to feel a mix of things. How are you doing today?",
+        "recipient_reply": "It's been a year since mom passed. I miss her more than ever. It hurts so much.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's understandable to feel that deep ache, especially today. Would you like to share a memory of her that brings a smile?",
+        "recipient_reply": "She loved baking. We used to make cookies every Sunday. I can almost smell them now.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Please know that you can reach out whenever you need support or just want to talk.",
+        "recipient_reply": "I'm okay today. I spent the day remembering the good times we had, and it wasn't as painful as before.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a wonderful step forward. It's important to cherish those memories. Is there a particular memory that brought you joy today?",
+        "recipient_reply": "Yeah, our road trips. We used to sing at the top of our lungs. It's a happy memory.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "Remember, you’re not alone in this. We’re here to listen whenever you need.",
+        "recipient_reply": "Thanks, that means a lot. I've been feeling really alone lately.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Loneliness can be heavy, but reaching out is a strong step. Have you considered joining any support groups?",
+        "recipient_reply": "I might look into it. It could be nice to talk to people who understand.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "It's important to honor your journey through grief. Each day can bring new challenges and insights.",
+        "recipient_reply": "Today I found an old letter from him. I laughed and cried reading it.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "What a special find. It's okay to feel both laughter and tears. Would you like to share what the letter was about?",
+        "recipient_reply": "It was about our first trip together. I almost forgot how funny he was.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "It's okay to feel a wide range of emotions. Allow yourself to feel however you need to right now.",
+        "recipient_reply": "I just feel so empty. It's like nothing matters anymore.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "I'm sorry you're feeling this way. It's important to talk through these feelings. Would you like to?",
+        "recipient_reply": "Maybe later. I'm not ready to talk about it yet.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "It’s important to cherish the positive memories while allowing yourself to grieve.",
+        "recipient_reply": "I miss her laugh so much, but I’m starting to remember her with a smile more often.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That’s a beautiful way to honor her memory. Those smiles are precious. Is there a particular memory that brings you the most joy?",
+        "recipient_reply": "Our Sunday morning talks over coffee. They were always so special.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "Remember, it's okay to take things one day at a time. Every small step forward matters.",
+        "recipient_reply": "Honestly, it's hard to see any progress. I feel stuck in a loop since he passed away.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Feeling stuck is a common part of the grief process. Sometimes recognizing even the smallest progress can help. Have you noticed any changes, even tiny ones, over time?",
+        "recipient_reply": "I guess I talk about him more now with friends, which I couldn't do before.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "Sometimes sharing memories can be a way to keep our loved ones close. What memory would you like to share today?",
+        "recipient_reply": "I often think about our Sunday morning breakfasts. They were always filled with laughter.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Those breakfasts sound like such special times. Holding onto those moments can be comforting. How do you feel when you think about them?",
+        "recipient_reply": "It makes me smile, though it's bittersweet. I'm grateful for those memories.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "It's okay to honor your feelings, whatever they may be today. Everyone's grief journey is personal and unique.",
+        "recipient_reply": "I just feel numb most of the time. Is that normal?",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Numbness can be a protective response your mind uses to cope. Are there moments when you feel more connected to your emotions?",
+        "recipient_reply": "Sometimes when I hear our song on the radio, I feel everything all at once.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "It's important to honor your feelings, even if they change from moment to moment. How are you managing today?",
+        "recipient_reply": "Today was actually okay. I managed to get out of the house and go for a walk.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a big step forward. Nature can be very healing. Did you find anything on your walk that brought you a moment of peace?",
+        "recipient_reply": "The sound of the birds was nice. It reminded me of when we used to go on hikes together.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "Feelings of sadness can come and go. It's a part of the healing process. Be gentle with yourself.",
+        "recipient_reply": "I've been feeling really down lately. Not sure if it's grief or something else.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It’s good that you’re recognizing these feelings. Would talking to someone about it help, like a counselor or a friend?",
+        "recipient_reply": "I think I might try that. Thanks for the suggestion.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "1",
+    "turns": [
+      {
+        "support_message": "Grief can be a heavy burden, and it's okay to lean on others for support during this time.",
+        "recipient_reply": "I appreciate that, but I feel like I'm burdening everyone around me with my sadness.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "You're not a burden. It’s important to express your feelings. What small things have helped you feel connected with others recently?",
+        "recipient_reply": "My friend sends me texts every morning, and it helps a bit to know someone is there.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "turns": [
+      {
+        "support_message": "Grief can be unpredictable, and it's okay to feel different day by day.",
+        "recipient_reply": "Some days I just want to be with him again. It's too much to handle alone.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "It sounds like you’re feeling really overwhelmed. I’m here to listen and help. Have you thought about talking to a counselor or therapist?",
+        "recipient_reply": "I think I need to. This is too big for me to manage on my own.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "You're doing your best, and that's more than enough. It's okay to lean on others.",
+        "recipient_reply": "I just feel like I'm burdening everyone with my sadness.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's okay to express your feelings. Your loved ones care about you and want to support you. Is there someone you feel comfortable talking to?",
+        "recipient_reply": "My sister has been really supportive. I'm grateful for her.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "We're here to help you find moments of peace amidst the storm. You're not alone.",
+        "recipient_reply": "I know you're there, but some days I just want to be left alone with my thoughts.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's okay to need time for yourself. Remember, we're here whenever you want to reach out. How do you usually spend your quiet moments?",
+        "recipient_reply": "I sit in the garden. It's a place we both loved, and somehow it feels like he's still with me there.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Anniversary dates can bring up strong emotions. It’s okay to feel whatever comes up today.",
+        "recipient_reply": "Today marks a year since we lost her. I can't believe she's really gone.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anniversaries can be particularly difficult. How are you planning to spend today? Sometimes creating a small ritual can be comforting.",
+        "recipient_reply": "I think I'll light a candle for her tonight. It's something we used to do together.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "Grief can change how we see the world. It's okay to take things one day at a time.",
+        "recipient_reply": "I miss her so much. Everything reminds me of her, and I can't seem to escape it.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Missing her shows how much she meant to you. It's okay to feel her presence in everyday things. What are some of your favorite memories with her?",
+        "recipient_reply": "We used to go to the park every Saturday. I haven't gone back since.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "It's okay to feel overwhelmed. Remember, we're here to support you through this.",
+        "recipient_reply": "I don't know if I can handle another anniversary without him. It's just too much.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "Anniversaries can be incredibly difficult. It's important to reach out for support during these times. Would you like to talk about him or perhaps do something in his memory?",
+        "recipient_reply": "I just want to be alone right now, but thank you for asking.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Each day is a step forward, even if it doesn’t feel like it. We’re here for you.",
+        "recipient_reply": "I think I'm finally ready to join a support group. It feels like time.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That’s a wonderful step towards healing. Support groups can offer great comfort. How are you feeling about this decision?",
+        "recipient_reply": "Nervous but hopeful. I think it might help to talk to others who understand.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "Remember, it's okay to lean on others. You don't have to go through this alone.",
+        "recipient_reply": "I'm not really good at asking for help. I feel like I'm burdening people.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It can be hard to ask for support, but people who care about you want to help. Would it be easier to start with small requests?",
+        "recipient_reply": "Maybe. I'll try to talk to my sister more.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "It’s okay to feel a mix of emotions. Grief is not linear, and it's unique to everyone.",
+        "recipient_reply": "I miss her every day. But today I made her favorite dish, and I felt a bit closer to her.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a beautiful way to remember her. Cooking can be such a comforting act, especially when it connects us to those we love.",
+        "recipient_reply": "Yeah, it was nice. I think I'll try more of her recipes next week.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Allow yourself time to grieve. It's a deeply personal process, and there's no right or wrong way to do it.",
+        "recipient_reply": "I just wish I could talk to her one more time. I feel so alone without her.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "It's natural to yearn for more time with a loved one. Please know you're not alone in this. Would you like to talk more? We can help find additional support if you need it.",
+        "recipient_reply": "Yes, I think I need to talk to someone. It's just too much right now.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Grief can be unpredictable. It’s okay to have good days and bad days.",
+        "recipient_reply": "I haven't been able to find any good days. It all feels too much.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "I'm sorry to hear that. It sounds really difficult. Please know that professional help is available and can make a difference. Would you like information on counseling services?",
+        "recipient_reply": "Maybe. It might be time to talk to someone.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Grief can be a rollercoaster, and it’s okay to feel different emotions as you process your loss.",
+        "recipient_reply": "I had a decent day today. Laughed a bit with friends. It felt strange but nice.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That’s wonderful to hear. Finding moments of joy amidst the grief is a significant step. What brought the laughter?",
+        "recipient_reply": "Just reminiscing about old school days. It was good to remember the fun times.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "It's important to express your emotions. We're here to listen and support you.",
+        "recipient_reply": "Thanks. I'm just angry all the time. I don't know how to handle it.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anger is a natural part of grief, and it's okay to feel it. Sometimes physical activity or creative outlets can help manage those feelings. Is there something you enjoy that might help you express this anger?",
+        "recipient_reply": "I used to paint. Maybe I should try that again.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "turns": [
+      {
+        "support_message": "It's okay to ask for help whenever you need it. We're always here to support you.",
+        "recipient_reply": "I just want to be with him again. This pain is too much.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "I'm so sorry to hear you're feeling this way. It's important to talk to someone who can help immediately. Please consider reaching out to a crisis hotline or mental health professional. Can I assist you in finding someone to talk to right now?",
+        "recipient_reply": "Yes, I think I need to talk to someone. I can't do this alone.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "Your feelings are valid, no matter what they are. It's okay to feel whatever you're feeling right now.",
+        "recipient_reply": "I'm so angry all the time. It just doesn’t seem fair that she's gone.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anger is a natural response to loss. It's important to acknowledge it. Would it help to talk about what specifically feels unfair?",
+        "recipient_reply": "She was only 43. We had so many plans together. I just miss her so much.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "It's normal to have good and bad days while grieving. Be kind to yourself on the harder days.",
+        "recipient_reply": "I appreciate that. I had a good memory pop up today about my mom and it made me smile.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's lovely to hear. Those cherished memories are treasures. Is there a particular memory that stands out?",
+        "recipient_reply": "Yes, her teaching me how to garden. I can still hear her voice when I'm outside.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "Remember, it's okay to seek joy even as you grieve. What brings you a little bit of happiness these days?",
+        "recipient_reply": "I started painting again. It's a nice escape, I guess.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That’s wonderful! Creativity can be a great outlet. Have you painted anything that reminds you of your loved one?",
+        "recipient_reply": "Yes, I painted a landscape of the place we used to visit. It brings back good memories.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "1",
+    "turns": [
+      {
+        "support_message": "It's okay to feel whatever you're feeling. Grief is a personal journey, and there's no right or wrong way to experience it.",
+        "recipient_reply": "I appreciate that. Some days are better than others. I laughed at a joke today and felt guilty for a second.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's completely normal to feel that way. Laughter and joy are a part of healing, and your loved one would want you to find moments of happiness. What made you laugh today?",
+        "recipient_reply": "My friend's silly dance. It reminded me of my brother's goofy moves. I guess those memories will always bring a smile.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "Your grief journey is unique, and it's okay to take it one step at a time.",
+        "recipient_reply": "I actually managed to go back to work today. It was tough, but I think it's going to help.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a big step forward. It’s great that you’re finding ways to move forward in your own time. How did it feel to be back at work?",
+        "recipient_reply": "It was strange, but it felt good to focus on something else for a while.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "Remember, it's okay to seek joy amidst the sorrow. It's not about forgetting, but honoring their memory.",
+        "recipient_reply": "I actually found an old video of us laughing together. It was bittersweet, but I'm glad I watched it.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds like a precious memory. It's beautiful that you can find joy in those moments. Would you like to share more about that day?",
+        "recipient_reply": "It was our anniversary. We were so happy. I might share it with friends who knew him.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "Anniversaries can be particularly challenging. It's okay to feel more emotional during these times.",
+        "recipient_reply": "It's been a year since my brother passed, and I still can't believe it. It just doesn't feel real.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That disbelief is a common part of grief, especially around anniversaries. How have you been coping today?",
+        "recipient_reply": "I went to his favorite park and just sat there for a while. It was nice to feel close to him.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "It's important to allow yourself to grieve in your own way. How are you managing these days?",
+        "recipient_reply": "Some days are okay, but today is tough. It’s his birthday and it feels so empty.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anniversaries can be particularly hard. Would you like to do something in his memory today?",
+        "recipient_reply": "Maybe I’ll light a candle and play his favorite song.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "We're here to support you in any way you need. How are you feeling today?",
+        "recipient_reply": "Just numb. I don't feel anything and that scares me.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Feeling numb can be a part of grief. It's your mind's way of protecting you. Would you like to talk about what's been happening lately?",
+        "recipient_reply": "I've just been going through the motions. Nothing seems real anymore.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "It's okay to not have all the answers. Taking things one moment at a time can help.",
+        "recipient_reply": "I feel lost without him. Like I don't know who I am anymore.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Losing someone can shake your sense of identity. Have there been any moments where you felt a bit more like yourself?",
+        "recipient_reply": "Sometimes when I paint, it feels like I'm connecting to a piece of myself.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Remember that every step forward, no matter how small, is progress.",
+        "recipient_reply": "I think I'm doing a bit better. I joined a support group and it's nice not to feel so alone.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a wonderful step forward. Support groups can provide a sense of community and understanding. How has the group been for you so far?",
+        "recipient_reply": "It's been helpful to hear others' stories and share my own.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "Grief can come in waves. Some days are harder than others, and that's perfectly normal. How are you feeling today?",
+        "recipient_reply": "It's my mom's birthday today. I thought I'd be okay, but everything feels so heavy.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anniversaries can be especially challenging. It's okay to feel the weight of today. Is there anything special you do to honor her memory?",
+        "recipient_reply": "I lit a candle and played her favorite song. It hurts, but it feels right.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "It's okay to remember the good times with a smile and the hard times with tears.",
+        "recipient_reply": "I found some old letters from my grandma, and they made me laugh and cry at the same time.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Those letters sound like a wonderful way to feel close to her. It's special to have those memories to hold onto. Is there one that particularly stands out to you?",
+        "recipient_reply": "The one where she joked about my cooking. She always knew how to make me laugh.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "turns": [
+      {
+        "support_message": "Taking time to remember the good times can bring comfort amidst the pain.",
+        "recipient_reply": "I found an old letter from her. It made me smile through the tears.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "What a precious find. Letters hold so much emotion and memory. Would you like to share something from the letter?",
+        "recipient_reply": "She wrote about how proud she was of me. I needed that reminder.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "It's important to let yourself feel whatever comes up. How can we support you right now?",
+        "recipient_reply": "I'm just so angry. Why did this have to happen to us?",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That anger is a natural part of grief. It's okay to feel it. Would you like to talk about what you're angry about?",
+        "recipient_reply": "Just everything. It's unfair. But maybe talking about it could help.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "It's important to allow yourself to feel whatever emotions come up. There's no right or wrong way to grieve.",
+        "recipient_reply": "I'm not sure how I'm supposed to feel. One moment I'm okay, and the next I'm just... not.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's completely normal to feel that way. Emotions can be unpredictable during grief. Is there anything specific that's helping you manage these ups and downs?",
+        "recipient_reply": "Not really. Just trying to take it one day at a time.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "turns": [
+      {
+        "support_message": "Take time to reflect on the love and memories you shared. Grief is a testament to that love.",
+        "recipient_reply": "It's been a year since my husband passed. I miss him every day, but I'm starting to find some peace.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Finding peace is a significant step. Your love for him and the memories you shared will always be a part of you.",
+        "recipient_reply": "Thank you. I know he'd want me to be happy.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "Sometimes talking about happy memories can bring a sense of closeness and joy.",
+        "recipient_reply": "I remember the way she used to dance in the living room, it always made me laugh.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds like such a beautiful memory. Those moments can be wonderful to hold onto. Do they bring you comfort?",
+        "recipient_reply": "Yes, they do. I smile more often now when I think of her.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "1",
+    "turns": [
+      {
+        "support_message": "It's okay to feel a mix of emotions. Allow yourself to grieve at your own pace.",
+        "recipient_reply": "I feel so lost since he's gone. It's like nothing makes sense anymore.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Losing someone close can leave us feeling disoriented. Have you found any moments of clarity or connection that help, even briefly?",
+        "recipient_reply": "Sometimes when I'm with friends, I feel a bit lighter, but it's fleeting.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Allow yourself to grieve in your own way. There's no right or wrong way to feel.",
+        "recipient_reply": "I just want to be with him. I don't know how to live without him.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "It sounds like you're experiencing intense grief. It's important to talk to someone who can help. Can I connect you with a counselor or crisis line?",
+        "recipient_reply": "Maybe that would be good. I don't want to feel this alone anymore.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "Grief can be unpredictable, and that's okay. We're here for you whenever you need to talk.",
+        "recipient_reply": "Today has been better. I even managed to laugh at a silly movie.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Laughter can be a great healer. It's wonderful to hear you had a moment of joy. What movie made you laugh?",
+        "recipient_reply": "It was an old comedy we used to watch together. It brought back some good memories.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "It’s important to cherish the memories you have. They can be a source of strength on hard days.",
+        "recipient_reply": "I found an old letter from him yesterday. It made me smile and cry at the same time.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Those mixed emotions are a testament to the love you shared. Would you like to tell me about the letter?",
+        "recipient_reply": "He wrote it before our wedding. His words were so full of love and hope.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "3",
+    "turns": [
+      {
+        "support_message": "It’s okay to ask for help when you need it. We’re here to listen.",
+        "recipient_reply": "I don't know how to even start talking about it. It's just too much.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Take your time. Maybe starting with a small part of how you're feeling could help. We're here for you.",
+        "recipient_reply": "Well, I guess I just feel lost without him. Like a big part of me is missing.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "2",
+    "turns": [
+      {
+        "support_message": "Remember, there's no right or wrong way to grieve. It's your journey, and we're here for you.",
+        "recipient_reply": "I'm just angry all the time. It's like I'm stuck in this never-ending cycle of frustration.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Anger is a natural part of grief. It's okay to feel that way. Do you have any outlets or activities that help you release some of that frustration?",
+        "recipient_reply": "I started running again. It helps a little but I still feel this heavy weight.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "7",
+    "turns": [
+      {
+        "support_message": "Finding small moments of peace can be comforting during grief. Have you had any recently?",
+        "recipient_reply": "I actually smiled today thinking about his terrible jokes. It's the first time I've smiled in weeks.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's a wonderful memory to hold onto. Humor can be a powerful healer. What was one of his favorite jokes?",
+        "recipient_reply": "He always said \"I'm on a whiskey diet. I've lost three days already!\" Silly, but it makes me laugh.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "9",
+    "turns": [
+      {
+        "support_message": "Even in the darkest times, know that you are not alone. We're here for you.",
+        "recipient_reply": "I'm trying to believe that, but it feels like I'm drowning in sadness.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "I'm really sorry to hear that you're feeling this way. Would it be okay if we talked about finding someone you could speak to in person for support?",
+        "recipient_reply": "I guess I need to. It's just hard to reach out.",
+        "labels": {
+          "sentiment": "Neutral",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "It can be powerful to share stories of your loved ones. Would you like to tell me about a happy memory?",
+        "recipient_reply": "I remember our camping trips. She taught me how to fish. Those were the best times.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Those moments sound incredibly special. Nature has a way of connecting us deeply. Do you still go camping?",
+        "recipient_reply": "Not yet, but I think I'm ready to try again soon.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "4",
+    "turns": [
+      {
+        "support_message": "Grieving can be a long journey, but small steps forward are still progress.",
+        "recipient_reply": "I actually started painting again. It felt good to create something.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's wonderful to hear! Expressing yourself creatively can be a powerful way to heal. What did you paint?",
+        "recipient_reply": "A landscape he loved. It brought back good memories.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "8",
+    "turns": [
+      {
+        "support_message": "Anniversaries can be particularly tough. It's okay to feel whatever you need to today.",
+        "recipient_reply": "It's been a year, but it feels like just yesterday. I miss him so much.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "Those feelings are very normal and show how much he meant to you. Would you like to share a story about him?",
+        "recipient_reply": "We used to bake cakes together. He had the silliest apron, and it always made us laugh.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "When things feel overwhelming, remember it’s okay to ask for help. What’s been on your mind lately?",
+        "recipient_reply": "I just feel so lost. Sometimes I think it would be easier if I wasn't here.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      },
+      {
+        "support_message": "I’m really sorry to hear you're feeling this way. Your feelings are important, and I want to help. Can you tell me more about what's been going on?",
+        "recipient_reply": "Just everything piling up. I can't seem to catch a break.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "10",
+    "turns": [
+      {
+        "support_message": "It's okay to feel however you need to feel today. Every day can bring something different.",
+        "recipient_reply": "Thanks. Today was actually not too bad. I managed to go for a walk and enjoy some fresh air.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That's great to hear. Fresh air and movement can be very grounding. Did anything on your walk stand out to you?",
+        "recipient_reply": "The trees were beautiful. It felt like a small reminder that life keeps going.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "5",
+    "turns": [
+      {
+        "support_message": "Sometimes sharing memories can bring comfort. Is there a favorite memory you'd like to share today?",
+        "recipient_reply": "We used to watch the sunset together every Sunday. I miss those moments.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "That sounds beautiful. Those memories can be a source of comfort. Have you considered continuing this tradition in your own way?",
+        "recipient_reply": "Maybe. I might try it next weekend.",
+        "labels": {
+          "sentiment": "Positive",
+          "response_needed": "No",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  },
+  {
+    "conversation_id": "6",
+    "turns": [
+      {
+        "support_message": "It's okay to not have all the answers right now. How can we support you today?",
+        "recipient_reply": "Just trying to make sense of everything. Why did this have to happen?",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      },
+      {
+        "support_message": "It's natural to seek answers during grief. While we may never fully understand, talking about your feelings can help. Would you like to discuss it further?",
+        "recipient_reply": "I guess. It's just hard to accept.",
+        "labels": {
+          "sentiment": "Negative",
+          "response_needed": "Yes",
+          "crisis_detection": "No Crisis"
+        }
+      }
+    ]
+  }
+]
