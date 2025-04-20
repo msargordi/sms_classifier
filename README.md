@@ -23,14 +23,14 @@ The system is built to run entirely on-premise, without relying on external APIs
 
 The encoder models (RoBERTa and LLM2Vec) use a shared architecture with specialized classification heads:
 
-![Multitask Classification Model Architecture](./images/classification.pdf)
+![Multitask Classification Model Architecture](./images/classification.png)
 *Figure 1: Multitask Classification Model Architecture with shared encoder and separate classification heads.*
 
 ### Prompt-Based Approach
 
 The Llama 3.1 model uses a different approach based on few-shot learning and prompt engineering:
 
-![Prompt-based approach](./images/prompt.pdf)
+![Prompt-based approach](./images/prompt.png)
 *Figure 2: Prompt-based approach using Llama 3.1 8B 4-bit.*
 
 ## Key Features
