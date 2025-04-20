@@ -82,10 +82,9 @@ You'll need the following model files:
 
 ## Usage
 
-1. Save the provided interface code as `grief_eval.py`
-2. Run the application:
+1. Run the application:
 ```bash
-python grief_eval.py
+python gradio_interface.py
 ```
 3. Access the web interface (by default at http://localhost:7860)
 4. Select a model, choose or enter a scenario, and evaluate responses
