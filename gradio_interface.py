@@ -6,8 +6,8 @@ import torch
 import time
 import os
 
-# Import from evaluate_v3.py (RoBERTa model)
-from evaluate_v3 import (
+# Import from evaluate.py (RoBERTa model)
+from evaluate import (
     MultitaskRobertaClassifier, 
     RobertaTokenizer, 
     SENTIMENT_CLASSES, 
@@ -17,8 +17,8 @@ from evaluate_v3 import (
     device
 )
 
-# Import from evaluate_rag_v2.py (RAG model)
-from evaluate_rag_v2 import (
+# Import from evaluate_rag.py (RAG model)
+from evaluate_rag import (
     prompt,
     normalize_field,
     extract_classifications,
@@ -26,8 +26,8 @@ from evaluate_rag_v2 import (
     response_schemas,
 )
 
-# Import from evaluate_LLM2Vec_v3.py (LLM2Vec model)
-from evaluate_LLM2Vec_v3 import (
+# Import from evaluate_LLM2Vec.py (LLM2Vec model)
+from evaluate_LLM2Vec import (
     MultitaskClassifier,
     load_llm2vec_model,
     load_model_info,
@@ -50,8 +50,8 @@ except ImportError:
         raise
 
 # Constants
-ROBERTA_MODEL_PATH = "grief_model_v3"
-LLM2VEC_MODEL_PATH = "grief_model_llm2vec_v2"
+ROBERTA_MODEL_PATH = "grief_model"
+LLM2VEC_MODEL_PATH = "grief_model_llm2vec"
 MAX_LEN = 256
 
 # Define example scenarios

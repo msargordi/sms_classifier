@@ -604,7 +604,7 @@ def main():
 
     
     # Save model
-    save_model(model, tokenizer, "grief_model_v3")
+    save_model(model, tokenizer, "grief_model")
     
     # Example usage
     print("\nExample prediction:")

@@ -15,7 +15,7 @@ CRISIS_CLASSES = {"No Crisis": 0, "Crisis": 1}
 
 # Constants
 MAX_LEN = 256
-MODEL_PATH = "grief_model_v3"  # Updated model path to v3
+MODEL_PATH = "grief_model"  # Updated model path to v3
 
 class MultitaskRobertaClassifier(nn.Module):
     def __init__(self, tokenizer, n_sentiment_classes=3, n_response_classes=2, n_crisis_classes=2):

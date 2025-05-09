@@ -328,7 +328,7 @@ def test_example(llm, support_message, recipient_reply, thresholds=None, history
         llm: The LLM model (Ollama)
         support_message: Current supportive message
         recipient_reply: Current recipient reply
-        thresholds: Dictionary containing threshold values (for compatibility with evaluate_v3)
+        thresholds: Dictionary containing threshold values (for compatibility with evaluate)
         history: Optional tuple of (prev_support_msg, prev_recipient_reply)
     """
     # Direct pattern-based crisis detection for high-confidence cases only
@@ -481,7 +481,7 @@ Current messages:"""
     if result['crisis_detection'] == "Crisis":
         print("*** REQUIRES ATTENTION ***")
     
-    # For compatibility with evaluate_v3, show threshold info
+    # For compatibility with evaluate, show threshold info
     high_recall_threshold = thresholds['high_recall']['threshold']
     if crisis_prob > high_recall_threshold and crisis_prob <= thresholds['best_f1']['threshold'] and result['crisis_detection'] == "No Crisis":
         print(f"Note: Would be flagged as crisis with high_recall threshold ({high_recall_threshold:.4f})")
@@ -500,7 +500,7 @@ def main():
         print("And that you have the llama3.1 model: 'ollama pull llama3.1'")
         return
     
-    # Default thresholds (for compatibility with evaluate_v3)
+    # Default thresholds (for compatibility with evaluate)
     thresholds = {
         'best_f1': {'threshold': 0.5},
         'high_recall': {'threshold': 0.3}

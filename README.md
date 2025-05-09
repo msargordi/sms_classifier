@@ -77,8 +77,8 @@ ollama pull llama3.1:latest
 ### Model Files
 
 You'll need the following model files:
-- `grief_model_v3/` - RoBERTa model files
-- `grief_model_llm2vec_v2/` - LLM2Vec model files
+- `grief_model/` - RoBERTa model files
+- `grief_model_llm2vec/` - LLM2Vec model files
 
 ## Usage
 

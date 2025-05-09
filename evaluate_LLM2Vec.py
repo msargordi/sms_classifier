@@ -26,7 +26,7 @@ BASE_MODEL_NAME = "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp"
 SUPERVISED_MODEL_NAME = "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised"
 LOCAL_BASE_DIR = os.path.join(MODELS_DIR, "LLM2Vec-Meta-Llama-3-8B-Instruct-mntp")
 LOCAL_SUPERVISED_DIR = os.path.join(MODELS_DIR, "LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised")
-MODEL_PATH = "grief_model_llm2vec_v2"  # Updated model path for LLM2Vec classifiers
+MODEL_PATH = "grief_model_llm2vec"  # Updated model path for LLM2Vec classifiers
 
 def get_memory_usage():
     """Get current memory usage in GB"""
